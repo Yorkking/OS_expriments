@@ -1,0 +1,9 @@
+floppy:  a.img
+2019.3.22       sector1:  myOS.bin  512B
+2019.3.29       sector2:  Table.txt  512B
+2019.3.29       sector3,4,5:  kernel.com  1300B
+2019.3.22       sector6:  pro1.bin  512B
+2019.3.22       sector7:  pro2.bin  512B
+2019.3.22       sector8:  pro3.bin  512B
+2019.3.29       sector11:  init.cmd  512B;
+
